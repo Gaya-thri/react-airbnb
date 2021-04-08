@@ -33,6 +33,9 @@
   border:none;
   width:250px;
 }
+.header__center > input:focus {
+  outline-width: 0;
+}
 
 .header__right {
   display:flex;

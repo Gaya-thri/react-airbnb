@@ -10,7 +10,7 @@ export default function Home() {
       <Banner/>
       <div className="home__section">
          <Card
-         src="https://www.dccomics.com/sites/default/files/imce/2019/04-APR/JokerPoster1200_5ca3c435318d42.29270548.jpg" 
+         src="https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-poster-main2.jpg" 
          title="Joker"
          description="Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society."/>
          <Card 

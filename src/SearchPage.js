@@ -29,21 +29,21 @@ export default function SearchPage() {
         price="Rs 10000/night"
         total="Rs 10000 total"/>
         <SearchResult
-        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEiz7zlszbJA_WalrvtHLYGGjDDW4TnNPwpMsKlN8hDs6LC5OiuZDZM3Etxu3j8ZVtBQ&usqp=CAU"
-        location="Private Room in center of London"
-        title="Stay at this spacious Edwardian House"
+        img="https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        location="Spacious Room in center of Europe"
+        title="Stay at this colonel House"
         description="1 guest - 1 bedroom - wifi - 1.5 shared bathrooms - Kitchen - Free parking - Washing Machine"
-        star={4.73}
-        price="Rs 10000/night"
-        total="Rs 10000 total"/>
+        star={4.9}
+        price="Rs 20000/night"
+        total="Rs 20000 total"/>
         <SearchResult
-        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEiz7zlszbJA_WalrvtHLYGGjDDW4TnNPwpMsKlN8hDs6LC5OiuZDZM3Etxu3j8ZVtBQ&usqp=CAU"
-        location="Private Room in center of London"
-        title="Stay at this spacious Edwardian House"
+        img="https://insights.ehotelier.com/wp-content/uploads/sites/6/2020/01/hotel-room-300x300.jpg"
+        location="Room in center of Texas"
+        title="Stay at this Aman House"
         description="1 guest - 1 bedroom - wifi - 1.5 shared bathrooms - Kitchen - Free parking - Washing Machine"
-        star={4.73}
-        price="Rs 10000/night"
-        total="Rs 10000 total"/>
+        star={4.1}
+        price="Rs 5000/night"
+        total="Rs 5000 total"/>
     </div>
   )
 }
